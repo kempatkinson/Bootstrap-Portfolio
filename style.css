@@ -47,3 +47,13 @@ footer {
     height: 728px;
 
 }
+
+#submit {
+    border: 3px solid black;
+    padding: 10px;
+    background: white;
+}
+
+navbar{
+    background-color: lightgrey;
+}
