@@ -2,8 +2,12 @@ body {
     margin: 0;
     background: url('images/papyrus.png');
 }
+
+.navbar {
+    background-color: grey !important;
+}
 .face {
-    width: 100%;
+    width: 250px;
     margin: 10px;
 }
 
@@ -15,7 +19,7 @@ body {
 footer {
     background-color: grey;
     color: white;
-    position: absolute;
+    position: fixed;
     bottom: 0px;
     width: 100%;
 }
@@ -31,9 +35,14 @@ footer {
     margin: 10px;
 }
 
+#portfolio {
+    margin: 20px;
+}
+
 .portfoliocaption {
     color: white;
-    background-color: grey;
+    width: 250px;
+    background-color: whitesmoke;
     top: -20px;
     text-align: center;
     position: relative;
