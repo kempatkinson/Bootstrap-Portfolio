@@ -1,7 +1,7 @@
 body {
-    margin: 0;
     background: url('images/papyrus.png');
     height: 100%;
+    padding: -100px;
 }
 
 .navbar, .navbar-brand {
@@ -29,11 +29,11 @@ body {
 
 footer {
     background-color: grey;
-    margin-top: 45px;
+    margin-top:-50px;
     color: white;
     position: relative;
-    bottom: 0px;
     width: 100%;
+
 }
 
 #portfolio {
