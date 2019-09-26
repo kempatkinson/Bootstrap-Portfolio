@@ -55,16 +55,10 @@ figure {
     margin: 10px;
 }
 
-.port-link {
-    color: blue;
-    padding: 20px;
-}
-
 .portfoliocaption {
-    color: white;
-    width: 100%px;
+    color: blue;
+    width: 100%;
     background-color: lightgray;
-    top: -20px;
     text-align: center;
     position: relative;
     top: -10px;
