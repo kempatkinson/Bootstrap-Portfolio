@@ -10,7 +10,12 @@ body {
     width: 250px;
     margin: 10px;
 }
-
+#abouttext {
+    margin-top: 5px;
+}
+#abouttext2 {
+    margin-left: 5px;
+}
 #about {
     border: 3px solid black;
     background: white;
