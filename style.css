@@ -52,7 +52,12 @@ footer {
     margin: 20px;
 }
 figure {
-    margin: 10px
+    margin: 10px;
+}
+
+.port-link {
+    color: blue;
+    padding: 20px;
 }
 
 .portfoliocaption {
