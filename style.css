@@ -14,8 +14,8 @@ nav {
 .nav-link {
     color: lightskyblue;
 }
-.face {
-    width: 100%;
+.portpic {
+        width: 100%;
     height: 100%;
     margin: 10px;
 }
@@ -64,10 +64,17 @@ footer {
 figure {
     margin: 10px;
 }
-
+.card-columns {
+    margin: 20px;
+    width: 100%;
+}
+.card {
+    border: 3px black solid;
+}
 .portfoliocaption {
     color: blue;
     width: 100%;
+    padding: 0 10 0 10;
     background-color: lightgray;
     text-align: center;
     position: relative;
